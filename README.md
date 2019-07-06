@@ -1,2 +1,2 @@
 # genes
-Just a bean repository.
+Just a gbean repository. 
